@@ -1,4 +1,3 @@
-[profile_README.md](https://github.com/user-attachments/files/28680738/profile_README.md)
 # Hi, I'm Saloni Sharma 👋
 
 CS Student from Uttar Pradesh, India — passionate about Python, Machine Learning, and Computer Vision.
